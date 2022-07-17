@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.16394927536231885" />
+        <entry key="app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1265" />
+        <entry key="app/src/main/res/drawable/ic_baseline_error_outline_24.xml" value="0.1265" />
+        <entry key="app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1265" />
         <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.181" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_view_contact.xml" value="0.25" />
         <entry key="app/src/main/res/layout/contact_list_item.xml" value="0.19270833333333334" />
       </map>
     </option>
